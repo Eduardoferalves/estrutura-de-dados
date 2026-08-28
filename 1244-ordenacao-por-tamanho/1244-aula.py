@@ -7,5 +7,3 @@ for _ in range(N):
     palavras.sort(key=len, reverse=True)
 
     print(" ".join(palavras))
-
-    
