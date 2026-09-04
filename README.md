@@ -4,9 +4,14 @@
 
 Repositório com os exercícios da disciplina de Estrutura de Dados. Cada pasta representa um exercício e contém a imagem do enunciado e suas resoluções.
 
+**Última atualização:** 2026-09-04
+
 ## Organização do repositório
 
+- 1022-modelagem-matematica — Modelagem Matemática
+- 1023-agrupamento — Agrupamento
 - 1025-ordenacao-busca-binaria — Ordenação e Busca Binária
+- 1063-fila-pilha-exercicio — Exercícios sobre fila e pilha
 - 1068-pilha — Pilha
 - 1069-pilha-exercicio — Exercício para resolução sobre Pilha
 - 1110-fila — Fila
