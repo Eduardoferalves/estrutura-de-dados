@@ -33,9 +33,9 @@ Cada pasta segue a mesma lógica:
 - materiais complementares, quando houver
 
 ## Avaliações
-1ª Menção - Avaliação Técnica - 02/10
+1ª Menção - Avaliação Técnica - 09/10
 
-2ª Menção - Avaliação Prática - 23/10
+2ª Menção - Avaliação Prática - 30/10
 
 3ª Menção - Avaliação Técnica - 04/12
 
