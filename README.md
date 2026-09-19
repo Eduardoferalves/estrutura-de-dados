@@ -1,42 +1,54 @@
-<img width="1254" height="1254" alt="Algoritmo e Estrutura de Dados" src="https://github.com/user-attachments/assets/7f23710b-c75c-4892-8a6b-f67c9185662e" />
-
 # Estrutura de Dados
 
-Repositório com os exercícios da disciplina de Estrutura de Dados. Cada pasta representa um exercício e contém a imagem do enunciado e suas resoluções.
+Repositório com exercícios e implementações em Python da disciplina de Estrutura de Dados. Cada pasta representa um tema ou exercício específico, com seus respectivos arquivos de resolução e materiais complementares.
 
-**Última atualização:** 2026-09-04
+**Última atualização:** 2026-09-18
 
-## Organização do repositório
+## Objetivo do projeto
 
-- 1022-modelagem-matematica — Modelagem Matemática
-- 1023-agrupamento — Agrupamento
-- 1025-ordenacao-busca-binaria — Ordenação e Busca Binária
-- 1063-fila-pilha-exercicio — Exercícios sobre fila e pilha
-- 1068-pilha — Pilha
-- 1069-pilha-exercicio — Exercício para resolução sobre Pilha
-- 1110-fila — Fila
-- 1119-fila-aplicada — Fila Aplicada
-- 1162-inversao — Inversão
-- 1167-fila-exercicio — Exercício para resolução sobre Fila
-- 1211-strings — Strings
-- 1244-ordenacao-por-tamanho — Ordenação por tamanho
-- 1251-ordenacao-lambda — Ordenação com Lambda
-- 1256-tabela-hash — Tabela Hash
-- 1258-ordenacao-multiplos-criterios-lambda-exercicio — Exercícios para resolução sobre Ordenação com Múltiplos critérios e Lambda
-- 1259-inversao-exercicio — Exercício para resolução sobre Inversão
+Este repositório reúne práticas relacionadas a:
 
-## Estrutura padrão
+- estruturas lineares, como fila e pilha;
+- ordenação e busca;
+- manipulação de strings;
+- tabela hash;
+- agrupamento e modelagem matemática;
+- resolução de exercícios aplicados em linguagem Python.
 
-Cada pasta segue a mesma lógica:
-- imagem do problema/enunciado
-- arquivos de resolução
-- materiais complementares, quando houver
+## Estrutura atual do projeto
 
-## Avaliações
-1ª Menção - Avaliação Técnica - 09/10
+- 1022-modelagem-matematica/ — modelagem matemática
+- 1023-agrupamento/ — agrupamento
+- 1025-ordenacao-busca-binaria/ — ordenação e busca binária
+- 1063-fila-pilha-exercicio/ — exercícios de fila e pilha
+- 1068-pilha/ — implementação e estudos sobre pilha
+- 1069-pilha-exercicio/ — exercícios de pilha
+- 1077-pilha-notacao-matematica/ — pilha com notação matemática
+- 1110-fila/ — implementação e estudos sobre fila
+- 1119-fila-aplicada/ — aplicações de fila
+- 1162-inversao/ — exercício de inversão
+- 1167-fila-exercicio/ — exercícios de fila
+- 1211-strings/ — manipulação e uso de strings
+- 1236-varredura-strings/ — varredura e processamento de strings
+- 1242-intervalos-strings-exercicio/ — intervalos em strings
+- 1244-ordenacao-por-tamanho/ — ordenação por tamanho
+- 1251-ordenacao-lambda/ — ordenação com lambda
+- 1256-tabela-hash/ — estudos e implementação de tabela hash
+- 1258-ordenacao-multiplos-criterios-lambda-exercicio/ — ordenação com múltiplos critérios
+- 1259-inversao-exercicio/ — exercícios de inversão
 
-2ª Menção - Avaliação Prática - 30/10
+## Organização geral
 
-3ª Menção - Avaliação Técnica - 04/12
+Cada diretório contém os materiais referentes ao tema e geralmente inclui:
 
-4ª Menção - Avaliação Prática - 11/12
+- scripts em Python com a solução do exercício;
+- arquivos auxiliares, quando necessário;
+- enunciados ou imagens do problema, conforme disponibilizado.
+
+## Linguagem
+
+- Python
+
+## Observação
+
+Este repositório é um conjunto de atividades práticas e exercícios de aprendizagem da disciplina de Estrutura de Dados, refletindo a estrutura atual do projeto e os módulos já incluídos no workspace.
