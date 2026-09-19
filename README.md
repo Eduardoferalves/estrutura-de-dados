@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="Algoritmo e Estrutura de Dados" src="https://github.com/user-attachments/assets/7f23710b-c75c-4892-8a6b-f67c9185662e" />
+
 # Estrutura de Dados
 
 Repositório com exercícios e implementações em Python da disciplina de Estrutura de Dados. Cada pasta representa um tema ou exercício específico, com seus respectivos arquivos de resolução e materiais complementares.
@@ -48,6 +50,15 @@ Cada diretório contém os materiais referentes ao tema e geralmente inclui:
 ## Linguagem
 
 - Python
+
+## Avaliações
+1ª Menção - Avaliação Técnica - 09/10
+
+2ª Menção - Avaliação Prática - 30/10
+
+3ª Menção - Avaliação Técnica - 04/12
+
+4ª Menção - Avaliação Prática - 11/12
 
 ## Observação
 
