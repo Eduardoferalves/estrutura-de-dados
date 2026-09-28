@@ -4,7 +4,7 @@
 
 Repositório com exercícios e implementações em Python da disciplina de Estrutura de Dados. Cada pasta representa um tema ou exercício específico, com seus respectivos arquivos de resolução e materiais complementares.
 
-**Última atualização:** 2026-09-18
+**Última atualização:** 2026-09-28
 
 ## Objetivo do projeto
 
@@ -26,7 +26,9 @@ Este repositório reúne práticas relacionadas a:
 - 1068-pilha/ — implementação e estudos sobre pilha
 - 1069-pilha-exercicio/ — exercícios de pilha
 - 1077-pilha-notacao-matematica/ — pilha com notação matemática
+- 1087-processamento-strings/ — processamento de strings
 - 1110-fila/ — implementação e estudos sobre fila
+- 1112-strings-exercicio/ — exercícios de strings
 - 1119-fila-aplicada/ — aplicações de fila
 - 1162-inversao/ — exercício de inversão
 - 1167-fila-exercicio/ — exercícios de fila
@@ -38,6 +40,7 @@ Este repositório reúne práticas relacionadas a:
 - 1256-tabela-hash/ — estudos e implementação de tabela hash
 - 1258-ordenacao-multiplos-criterios-lambda-exercicio/ — ordenação com múltiplos critérios
 - 1259-inversao-exercicio/ — exercícios de inversão
+- 1340-fila-remoção-elementos/ — identificação de pilha, fila e fila de prioridade
 
 ## Organização geral
 
